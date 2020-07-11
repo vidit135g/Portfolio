@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a78acd80.chunk.css",
+    "main.js": "/Portfolio/static/js/main.689e3d7d.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.689e3d7d.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.56e770a6.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.56e770a6.js.map",
+    "static/js/2.0a0da556.chunk.js": "/Portfolio/static/js/2.0a0da556.chunk.js",
+    "static/js/2.0a0da556.chunk.js.map": "/Portfolio/static/js/2.0a0da556.chunk.js.map",
+    "static/css/3.cffc9e54.chunk.css": "/Portfolio/static/css/3.cffc9e54.chunk.css",
+    "static/js/3.60cf51a1.chunk.js": "/Portfolio/static/js/3.60cf51a1.chunk.js",
+    "static/js/3.60cf51a1.chunk.js.map": "/Portfolio/static/js/3.60cf51a1.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/Portfolio/static/css/4.54df59d4.chunk.css",
+    "static/js/4.729f5b70.chunk.js": "/Portfolio/static/js/4.729f5b70.chunk.js",
+    "static/js/4.729f5b70.chunk.js.map": "/Portfolio/static/js/4.729f5b70.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.1f7f1b37d64cfe5f7649e86fb9fff701.js": "/Portfolio/precache-manifest.1f7f1b37d64cfe5f7649e86fb9fff701.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/3.cffc9e54.chunk.css.map": "/Portfolio/static/css/3.cffc9e54.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/Portfolio/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.a78acd80.chunk.css.map": "/Portfolio/static/css/main.a78acd80.chunk.css.map",
+    "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.b5c77a6a.ttf",
+    "static/media/contact.PNG": "/Portfolio/static/media/contact.225a865f.PNG",
+    "static/media/contactMail.webp": "/Portfolio/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/Portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/focus.png": "/Portfolio/static/media/focus.299fde52.png",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.25bf045c.svg",
+    "static/media/notes.png": "/Portfolio/static/media/notes.68832289.png",
+    "static/media/play.png": "/Portfolio/static/media/play.88c54782.png",
+    "static/media/prof.PNG": "/Portfolio/static/media/prof.ad4fd2f5.PNG",
+    "static/media/quoraLogo.png": "/Portfolio/static/media/quoraLogo.ab427bac.png",
+    "static/media/rep.png": "/Portfolio/static/media/rep.e0d9507b.png",
+    "static/media/school.png": "/Portfolio/static/media/school.86bf7ba7.png",
+    "static/media/todo.png": "/Portfolio/static/media/todo.3ae2295d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56e770a6.js",
+    "static/js/2.0a0da556.chunk.js",
+    "static/css/main.a78acd80.chunk.css",
+    "static/js/main.689e3d7d.chunk.js"
+  ]
+}
